@@ -5,3 +5,15 @@ Conforme equipos de trabajo de 2 (a lo sumo 3) estudiantes
 ● Cree un archivo README.md con los objetivos del presente taller
 ● Publique su proyecto en GitHub (debe hacer desde la cuenta de uno de los integrantes del equipo,
 invitar a los otros integrantes y al docente a la cuenta felipemoralesquerol)
+
+T2: Exposición de la Práctica
+Ejercicio 2:
+● Crear la clase Punto con dos atributos x e y (ambos numéricos), con el correspondiente
+constructor que recibe ambos valores.
+● Definir métodos tales como:
+○ eje_x
+○ eje_y
+○ impresion (método que devuelve en representación de string ambos valores)
+○ opuesto (método que devuelve el punto opuesto -es decir con los atributos
+negativos-)
+○ Cualquier otro método que considere importante
