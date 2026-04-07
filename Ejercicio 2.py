@@ -12,6 +12,12 @@ class Punto():
         return "el valor de x es= " + str(self.x) + " y el valor de y es = " + str/(self.y)
   def opuesto(self):
     return Punto(-self.x, -self.y)
+
+punto_a = Punto(9,12)
+print(punto_a.impresion())
+
+punto_b= opuesto.punto_a
+print(punto_b.impresion())
     
 
 
