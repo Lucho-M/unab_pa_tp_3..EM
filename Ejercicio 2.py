@@ -9,7 +9,7 @@ class Punto():
         return self.y
     
     def impresion(self):
-        return "el valor de x es= " + str(self.x) + " y el valor de y es = " + str/(self.y)
+        return "el valor de x es= " + str(self.x) + " y el valor de y es = " + str(self.y)
   def opuesto(self):
     return Punto(-self.x, -self.y)
 
